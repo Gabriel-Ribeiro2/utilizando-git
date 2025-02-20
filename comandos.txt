@@ -8,4 +8,7 @@ git status
 git add ,
 
 -> Salva uma versão dos arquivos
-git commit -m "Porque estou salvando ???"
+git commit -m "Porque estou salvando???"
+
+-> Git Push adiciona informação do computador para nuvem
+git push
