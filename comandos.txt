@@ -27,3 +27,12 @@ git pull
 
 -> Baixa a atualização dos arquivos do Github para uma pasta já existente (link na frente)
 git clone 
+
+-> Sincroniza sem alterar a pasta local verificando mudança no github
+git fetch
+
+-> Abrir VScode
+code .
+
+-> Mais comandos em: https://training.github.com/downloads/pt_BR/github-git-cheat-sheet/
+
