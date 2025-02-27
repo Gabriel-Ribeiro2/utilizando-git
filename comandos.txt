@@ -25,5 +25,5 @@ git push
 -> Baixa a atualização dos arquivos do github para uma pasta já existente
 git pull
 
--> Baixa a atualização dos arquivos do Github para uma pasta já existente
+-> Baixa a atualização dos arquivos do Github para uma pasta já existente (link na frente)
 git clone 
