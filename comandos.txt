@@ -19,7 +19,7 @@ git add ,
 -> Salva uma versão dos arquivos
 git commit -m "Porque estou salvando???"
 
--> Git Push adiciona informação do computador para nuvem
+-> Git Push adiciona informação do computador para nuvem (primeiro push a partir do site do git)
 git push
 
 -> Baixa a atualização dos arquivos do github para uma pasta já existente
