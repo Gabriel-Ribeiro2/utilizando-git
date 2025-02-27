@@ -1,3 +1,12 @@
+-> Configura o pc com nome e e-mail do responsável pelo código
+git config --global user.name "Gabriel Alexandre Ribeiro"
+git config --global user.email gabriel.ribeiro74@gmail.com
+
+-> navengando no cmd
+cd nome-da-pasta // entra na pasta
+cd ..            // volta uma pasta
+cd /             // vai para cd:
+
 -> Inicializa um repositório git (Utilizado apenas 1 vez)
 git init
 
@@ -15,3 +24,6 @@ git push
 
 -> Baixa a atualização dos arquivos do github para uma pasta já existente
 git pull
+
+-> Baixa a atualização dos arquivos do Github para uma pasta já existente
+git clone 
